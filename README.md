@@ -1,6 +1,8 @@
 # una-ihcux-lista-11
 
 SERGIO ANTONIO - SANTONY - RA 3261128163
+Lucas Alves Oliveira - RA: 326129404
+Lucas Gonçalves Florentino - 32617617
 
 Nossa Essência (Proposta de Valor)
 O ReCiclo transforma descarte em oportunidade. O que não serve mais para você pode ser útil para outra pessoa. Em uma plataforma simples e intuitiva, conectamos quem quer doar com quem precisa, fortalecendo a economia circular, reduzindo o lixo e incentivando a solidariedade.
